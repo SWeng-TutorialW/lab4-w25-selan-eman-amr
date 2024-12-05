@@ -11,6 +11,7 @@
 		   text="Hi there, We are using Git ! ! !"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
+
 		<font>
 			<Font size="31.0" />
 		</font>
